@@ -1,0 +1,228 @@
+[
+    {
+        "jobId": "000000001",
+        "keyWords": [
+            "#informatik",
+            "#kommunikation",
+            "#finanzen",
+            "#büro"
+        ],
+        "styling": {
+            "color": "#ffffff",
+            "backgroundColor": "#fe5000"
+        },
+        "company": {
+            "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJRI3rNux0e23L3W3donW2jHcGMFcVyvuGjK2pZ7uNrolMDrBNVHlZkvSILgygibR-h0E&usqp=CAU",
+            "companyName": "Migros Bank AG",
+            "placeDescription": "Ausbildungsort: Moosseedorf (Shoppy)"
+        },
+        "jobDetails": {
+            "jobTitle": "Bankkauffrau | Bankkaufmann ",
+            "jobDescription": "Telefonate und Besprechungen führen Kaufleute in der Regel täglich. Am Computer schreiben sie Briefe, Protokolle, Offerten und vieles mehr. Häufig sind sie auch dafür zuständig, den Zahlungsverkehr abzuwickeln. Du arbeitest am Schalter oder bist in Beratungsgesprächen mit unseren Bankkunden dabei.",
+            "jobImage": "https: //migroskarriere-live.rokka.io/dynamic/resize-mode-fill-width-890--crop-width-890-height-501/o-dpr-1/9471dcc062c84f2ecffada3e7e059384731b529b/Berufsbildung_Cleverness.jpg",
+            "jobVideo": null
+        },
+        "possibleApplications": {
+            "trial": true,
+            "apprenticeship": false
+        },
+        "contact": {
+            "name": "Fritz Mustermann",
+            "email": "fritz.mustermann@swisscom.com",
+            "phone": "0041771234567"
+        }
+    },
+    {
+        "jobId": "000000001",
+        "keyWords": [
+            "#informatik",
+            "#kommunikation",
+            "#finanzen",
+            "#büro"
+        ],
+        "styling": {
+            "color": "#ffffff",
+            "backgroundColor": "#3E8794"
+        },
+        "company": {
+            "companyLogo": "https://www.interlaken-gemeinde.ch/_cmsbox_21/favicon.ico",
+            "companyName": "Einwohnergemeinde Interlaken",
+            "placeDescription": "Ausbildungsort: Interlaken"
+        },
+        "jobDetails": {
+            "jobTitle": "Kauffrau | Kaufmann",
+            "jobDescription": "Nichts ist wichtiger als Kommunikation. Die Einwohnergemeinde Interlaken ist verantwortlich für eines der grössten Einzugsgebiete im Berner Oberland. Nebst dem engen Kontakt mit der Tourismus-Organisation Interlaken (TOI) sowie den diversen Betrieben in der Region bist Du als Kauffrau oder Kaufmann auch für unsere Einwohnerinnen und Einwohner da und hilfst ihnen kompetent weiter.  ",
+            "jobImage": "https: //media.jungfrau.ch/image/upload/ar_16:9,c_crop,fl_lossy,q_auto/c_scale,w_1252/v1582105984/fileadmin/unternehmen/Berufe/Kauffrau-Oeffentlicher-Verkehr-Jungfraubahnen-Sonia-Chenthattel-1.jpg",
+            "jobVideo": null
+        },
+        "possibleApplications": {
+            "trial": true,
+            "apprenticeship": true
+        },
+        "contact": {
+            "name": "Fritz Mustermann",
+            "email": "fritz.mustermann@swisscom.com",
+            "phone": "0041771234567"
+        }
+    },
+    {
+        "jobId": "ADVERT",
+        "keyWords": [],
+        "styling": {
+            "color": "#ffffff",
+            "backgroundColor": "#00536d"
+        },
+        "company": {
+            "companyLogo": "https: //pbs.twimg.com/profile_images/1389293936645189635/mJb8Yyy1_400x400.jpg",
+            "companyName": "Werbung",
+            "placeDescription": "Bezahlte Kooperation mit yuh AG"
+        },
+        "jobDetails": {
+            "jobTitle": "Lohnkonto gesucht?",
+            "jobDescription": "https: //yuh.com",
+            "jobImage": "https: //www.persoenlich.com/sites/default/files/galleries/f4609f099084990468e07fe1c061957fddbd589e.jpeg",
+            "jobVideo": null
+        },
+        "possibleApplications": {
+            "trial": false,
+            "apprenticeship": false
+        },
+        "contact": {
+            "name": "Fritz Mustermann",
+            "email": "fritz.mustermann@swisscom.com",
+            "phone": "0041771234567"
+        }
+    },
+    {
+        "jobId": "000000001",
+        "keyWords": [
+            "#informatik",
+            "#kommunikation",
+            "#finanzen",
+            "#büro"
+        ],
+        "styling": {
+            "color": "#ffffff",
+            "backgroundColor": "#00536d"
+        },
+        "company": {
+            "companyLogo": "data:image/png;base64,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",
+            "companyName": "Stadt Thun",
+            "placeDescription": "Ausbildungsort: Thun"
+        },
+        "jobDetails": {
+            "jobTitle": "Informatiker | Informatikerin",
+            "jobDescription": "Informatikerinnen und Informatiker installieren Hardware und Betriebssysteme, entwickeln Programme, Datenbanken oder Webauftritte und betreuen Netzwerke und Server. Sie sorgen dafür, dass die Anwenderinnen und Anwender reibungslos, schnell und sicher arbeiten können. Dazu erstellen sie Dokumentationen und Schulungsunterlagen.",
+            "jobImage": null,
+            "jobVideo": "https://www.youtube.com/embed/0B6b0aM_vvE"
+        },
+        "possibleApplications": {
+            "trial": true,
+            "apprenticeship": true
+        },
+        "contact": {
+            "name": "Fritz Mustermann",
+            "email": "fritz.mustermann@swisscom.com",
+            "phone": "0041771234567"
+        }
+    },
+    {
+        "jobId": "CH-BE-SCSAG-IT-APR-2022.0425",
+        "keyWords": [
+            "#informatik",
+            "#kommunikation",
+            "#finanzen",
+            "#büro"
+        ],
+        "styling": {
+            "color": "#ffffff",
+            "backgroundColor": "#a63297"
+        },
+        "company": {
+            "companyLogo": "https://yt3.ggpht.com/I8pNucrm-XjFiay7Xx1kSDaZWG3uB6IhAWwv-L8skzvBfjnZxPux2mwtUohs_HMg_oa7LHWbVQ=s68-c-k-c0x00ffffff-no-rj",
+            "companyName": "Swisscom Schweiz AG",
+            "placeDescription": "Ausbildungsort: Worblaufen"
+        },
+        "jobDetails": {
+            "jobTitle": "Informatiker | Informatikerin",
+            "jobDescription": "Du pflegst einen engen Austausch mit deinen Auftraggebenden, damit sie frühzeitig über die sich wandelnden Anforderungen ihrer ICT-Lösung oder den Systemkontext informiert sind. Du analysierst Nutzermodelle, erstellst Gestaltungsentwürfe und entwickelst Prototypen. In intensiver Absprache mit deinen Auftraggebenden arbeitest du die Umsetzungsvariante  konzeptionell aus.",
+            "jobImage": null,
+            "jobVideo": "https://www.youtube.com/embed/eOwxGCNXz5o"
+        },
+        "possibleApplications": {
+            "trial": true,
+            "apprenticeship": true
+        },
+        "contact": {
+            "name": "Fritz Mustermann",
+            "email": "fritz.mustermann@swisscom.com",
+            "phone": "0041771234567"
+        }
+    },
+    {
+        "jobId": "CH-BE-SCSAG-IT-APR-2022.0425",
+        "keyWords": [
+            "#informatik",
+            "#kommunikation",
+            "#finanzen",
+            "#büro"
+        ],
+        "styling": {
+            "color": "#ffffff",
+            "backgroundColor": "#baa864"
+        },
+        "company": {
+            "companyLogo": "data:image/png;base64,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",
+            "companyName": "Hauenstein Hotels",
+            "placeDescription": "Ausbildungsort: Oberhofen"
+        },
+        "jobDetails": {
+            "jobTitle": "Interiordesigner:in",
+            "jobDescription": "Die Hotels unserer Gruppe sind in der Region einzigartig: Luxus, Design und Ruhe treffen aufeinander. Als Interiordesigner:in bist Du dafür verantwortlich, dass unsere Anlagen regelmässig in neuem Kleid auftreten und eine positive Energie ausstrahlen.",
+            "jobImage": "https: //global-uploads.webflow.com/60329e4a73c751836fb7616f/6048c93af40059697278857a_Belv%C3%A9dere%20Strandhotel_Header.jpg",
+            "jobVideo": null
+        },
+        "possibleApplications": {
+            "trial": false,
+            "apprenticeship": true
+        },
+        "contact": {
+            "name": "Fritz Mustermann",
+            "email": "fritz.mustermann@swisscom.com",
+            "phone": "0041771234567"
+        }
+    },
+    {
+        "jobId": "CH-BE-SCSAG-IT-APR-2022.0425",
+        "keyWords": [
+            "#informatik",
+            "#kommunikation",
+            "#finanzen",
+            "#büro"
+        ],
+        "styling": {
+            "color": "#5fa550",
+            "backgroundColor": "#fff"
+        },
+        "company": {
+            "companyLogo": "https://www.avag.ch/hubfs/AVAG-Icon%2075x75px-2.jpg",
+            "companyName": "AVAG Umwelt AG",
+            "placeDescription": "Ausbildungsort: Thun"
+        },
+        "jobDetails": {
+            "jobTitle": "Kauffrau | Kaufmann",
+            "jobDescription": "Bei der dreijährigen, kaufmännischen Berufslehre mit EFZ erhältst du spannende Einblicke in verschiedene Aspekte dieses Berufsbildes. Um dir eine möglichst breite Ausbildung zu ermöglichen, arbeitest du in dieser Zeit in unterschiedlichen Unternehmensbereichen.",
+            "jobImage": "https: //www.avag.ch/hubfs/06%20Karriere/05%20Ausbildung%20bei%20der%20AVAG/02%20Kaufleute/AVAG-Karriere-Kaufleute-ATWI.jpg",
+            "jobVideo": null
+        },
+        "possibleApplications": {
+            "trial": false,
+            "apprenticeship": true
+        },
+        "contact": {
+            "name": "Fritz Mustermann",
+            "email": "fritz.mustermann@swisscom.com",
+            "phone": "0041771234567"
+        }
+    }
+]

@@ -1,4 +1,37 @@
 [
+        {
+        "jobId": "CH-BE-SCSAG-IT-APR-2022.0425",
+        "keyWords": [
+            "#informatik",
+            "#kommunikation",
+            "#finanzen",
+            "#büro"
+        ],
+        "styling": {
+            "color": "#5fa550",
+            "backgroundColor": "#fff"
+        },
+        "company": {
+            "companyLogo": "https://www.avag.ch/hubfs/AVAG-Icon%2075x75px-2.jpg",
+            "companyName": "AVAG Umwelt AG",
+            "placeDescription": "Ausbildungsort: Thun"
+        },
+        "jobDetails": {
+            "jobTitle": "Kauffrau | Kaufmann",
+            "jobDescription": "Bei der dreijährigen, kaufmännischen Berufslehre mit EFZ erhältst du spannende Einblicke in verschiedene Aspekte dieses Berufsbildes. Um dir eine möglichst breite Ausbildung zu ermöglichen, arbeitest du in dieser Zeit in unterschiedlichen Unternehmensbereichen.",
+            "jobImage": "https://www.avag.ch/hubfs/06%20Karriere/05%20Ausbildung%20bei%20der%20AVAG/02%20Kaufleute/AVAG-Karriere-Kaufleute-ATWI.jpg",
+            "jobVideo": null
+        },
+        "possibleApplications": {
+            "trial": false,
+            "apprenticeship": true
+        },
+        "contact": {
+            "name": "Fritz Mustermann",
+            "email": "fritz.mustermann@swisscom.com",
+            "phone": "0041771234567"
+        }
+    },
     {
         "jobId": "000000001",
         "keyWords": [
@@ -19,7 +52,7 @@
         "jobDetails": {
             "jobTitle": "Bankkauffrau | Bankkaufmann ",
             "jobDescription": "Telefonate und Besprechungen führen Kaufleute in der Regel täglich. Am Computer schreiben sie Briefe, Protokolle, Offerten und vieles mehr. Häufig sind sie auch dafür zuständig, den Zahlungsverkehr abzuwickeln. Du arbeitest am Schalter oder bist in Beratungsgesprächen mit unseren Bankkunden dabei.",
-            "jobImage": "https: //migroskarriere-live.rokka.io/dynamic/resize-mode-fill-width-890--crop-width-890-height-501/o-dpr-1/9471dcc062c84f2ecffada3e7e059384731b529b/Berufsbildung_Cleverness.jpg",
+            "jobImage": "https://migroskarriere-live.rokka.io/dynamic/resize-mode-fill-width-890--crop-width-890-height-501/o-dpr-1/9471dcc062c84f2ecffada3e7e059384731b529b/Berufsbildung_Cleverness.jpg",
             "jobVideo": null
         },
         "possibleApplications": {
@@ -52,7 +85,7 @@
         "jobDetails": {
             "jobTitle": "Kauffrau | Kaufmann",
             "jobDescription": "Nichts ist wichtiger als Kommunikation. Die Einwohnergemeinde Interlaken ist verantwortlich für eines der grössten Einzugsgebiete im Berner Oberland. Nebst dem engen Kontakt mit der Tourismus-Organisation Interlaken (TOI) sowie den diversen Betrieben in der Region bist Du als Kauffrau oder Kaufmann auch für unsere Einwohnerinnen und Einwohner da und hilfst ihnen kompetent weiter.  ",
-            "jobImage": "https: //media.jungfrau.ch/image/upload/ar_16:9,c_crop,fl_lossy,q_auto/c_scale,w_1252/v1582105984/fileadmin/unternehmen/Berufe/Kauffrau-Oeffentlicher-Verkehr-Jungfraubahnen-Sonia-Chenthattel-1.jpg",
+            "jobImage": "https://media.jungfrau.ch/image/upload/ar_16:9,c_crop,fl_lossy,q_auto/c_scale,w_1252/v1582105984/fileadmin/unternehmen/Berufe/Kauffrau-Oeffentlicher-Verkehr-Jungfraubahnen-Sonia-Chenthattel-1.jpg",
             "jobVideo": null
         },
         "possibleApplications": {
@@ -73,14 +106,14 @@
             "backgroundColor": "#00536d"
         },
         "company": {
-            "companyLogo": "https: //pbs.twimg.com/profile_images/1389293936645189635/mJb8Yyy1_400x400.jpg",
+            "companyLogo": "https://pbs.twimg.com/profile_images/1389293936645189635/mJb8Yyy1_400x400.jpg",
             "companyName": "Werbung",
             "placeDescription": "Bezahlte Kooperation mit yuh AG"
         },
         "jobDetails": {
             "jobTitle": "Lohnkonto gesucht?",
-            "jobDescription": "https: //yuh.com",
-            "jobImage": "https: //www.persoenlich.com/sites/default/files/galleries/f4609f099084990468e07fe1c061957fddbd589e.jpeg",
+            "jobDescription": "https://yuh.com",
+            "jobImage": "https://www.persoenlich.com/sites/default/files/galleries/f4609f099084990468e07fe1c061957fddbd589e.jpeg",
             "jobVideo": null
         },
         "possibleApplications": {
@@ -179,40 +212,7 @@
         "jobDetails": {
             "jobTitle": "Interiordesigner:in",
             "jobDescription": "Die Hotels unserer Gruppe sind in der Region einzigartig: Luxus, Design und Ruhe treffen aufeinander. Als Interiordesigner:in bist Du dafür verantwortlich, dass unsere Anlagen regelmässig in neuem Kleid auftreten und eine positive Energie ausstrahlen.",
-            "jobImage": "https: //global-uploads.webflow.com/60329e4a73c751836fb7616f/6048c93af40059697278857a_Belv%C3%A9dere%20Strandhotel_Header.jpg",
-            "jobVideo": null
-        },
-        "possibleApplications": {
-            "trial": false,
-            "apprenticeship": true
-        },
-        "contact": {
-            "name": "Fritz Mustermann",
-            "email": "fritz.mustermann@swisscom.com",
-            "phone": "0041771234567"
-        }
-    },
-    {
-        "jobId": "CH-BE-SCSAG-IT-APR-2022.0425",
-        "keyWords": [
-            "#informatik",
-            "#kommunikation",
-            "#finanzen",
-            "#büro"
-        ],
-        "styling": {
-            "color": "#5fa550",
-            "backgroundColor": "#fff"
-        },
-        "company": {
-            "companyLogo": "https://www.avag.ch/hubfs/AVAG-Icon%2075x75px-2.jpg",
-            "companyName": "AVAG Umwelt AG",
-            "placeDescription": "Ausbildungsort: Thun"
-        },
-        "jobDetails": {
-            "jobTitle": "Kauffrau | Kaufmann",
-            "jobDescription": "Bei der dreijährigen, kaufmännischen Berufslehre mit EFZ erhältst du spannende Einblicke in verschiedene Aspekte dieses Berufsbildes. Um dir eine möglichst breite Ausbildung zu ermöglichen, arbeitest du in dieser Zeit in unterschiedlichen Unternehmensbereichen.",
-            "jobImage": "https: //www.avag.ch/hubfs/06%20Karriere/05%20Ausbildung%20bei%20der%20AVAG/02%20Kaufleute/AVAG-Karriere-Kaufleute-ATWI.jpg",
+            "jobImage": "https://global-uploads.webflow.com/60329e4a73c751836fb7616f/6048c93af40059697278857a_Belv%C3%A9dere%20Strandhotel_Header.jpg",
             "jobVideo": null
         },
         "possibleApplications": {

@@ -32,8 +32,8 @@
         "contact": {
             "name": "Fritz Mustermann",
             "position": "Berufsbildungsverantwortlicher bei der AVAG Umwelt AG",
-            "email": "fritz.mustermann@avag.ch",
-            "phone": "0041771234567"
+            "email": "mailto:fritz.mustermann@avag.ch",
+            "phone": "tel:0041771234567"
         },
         "accordions": [
             {

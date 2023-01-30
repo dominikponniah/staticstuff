@@ -1,0 +1,55 @@
+[
+    {
+        "jobId": "202201301130-43954732",
+        "keyWords": [
+            "#informatik",
+            "#kommunikation",
+            "#finanzen",
+            "#büro"
+        ],
+        "styling": {
+            "color": "#fff",
+            "backgroundColor": "#5fa550"
+        },
+        "company": {
+            "companyLogo": "https://www.avag.ch/hubfs/AVAG-Icon%2075x75px-2.jpg",
+            "companyName": "AVAG Umwelt AG",
+            "placeDescription": "Ausbildungsort: Thun",
+            "companyDescription": "Dies ist eine möglichst spannende und relativ kurze Beschreibung über das Unternehmen. Ohne Limitierungen der Länge.",
+            "horizon": "Nach der Lehre kannst DU das oder das machen.",
+            "workDescription": "Eine ausführliche Arbeitsbeschreibung"
+        },
+        "jobDetails": {
+            "jobTitle": "Kauffrau | Kaufmann",
+            "jobDescription": "Bei der dreijährigen, kaufmännischen Berufslehre mit EFZ erhältst du spannende Einblicke in verschiedene Aspekte dieses Berufsbildes. Um dir eine möglichst breite Ausbildung zu ermöglichen, arbeitest du in dieser Zeit in unterschiedlichen Unternehmensbereichen.",
+            "jobImage": "https://www.avag.ch/hubfs/06%20Karriere/05%20Ausbildung%20bei%20der%20AVAG/02%20Kaufleute/AVAG-Karriere-Kaufleute-ATWI.jpg",
+            "jobVideo": null
+        },
+        "possibleApplications": {
+            "trial": false,
+            "apprenticeship": true
+        },
+        "contact": {
+            "name": "Fritz Mustermann",
+            "position": "Berufsbildungsverantwortlicher bei der AVAG Umwelt AG",
+            "email": "fritz.mustermann@avag.ch",
+            "phone": "0041771234567"
+        },
+        "accordions": [
+            {
+                "title": "Deine Vorteile",
+                "items": [
+                    "Kostenloses GA während der Ausbildung",
+                    "Attraktive Vergünstigungen"
+                ]
+            },
+            {
+                "title": "Dein Profil",
+                "items": [
+                    "Sek-Abschluss mit guten Noten",
+                    "Gut in Schrift und Sprache (DE)"
+                ]
+            }
+        ]
+    }
+]

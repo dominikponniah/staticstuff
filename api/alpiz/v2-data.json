@@ -51,5 +51,87 @@
                 ]
             }
         ]
+    },
+        {
+        "jobId": "ADVERT",
+        "keyWords": [],
+        "styling": {
+            "color": "#ffffff",
+            "backgroundColor": "#00536d"
+        },
+        "company": {
+            "companyLogo": "https://pbs.twimg.com/profile_images/1389293936645189635/mJb8Yyy1_400x400.jpg",
+            "companyName": "Werbung",
+            "placeDescription": "Bezahlte Kooperation mit yuh AG"
+        },
+        "jobDetails": {
+            "jobTitle": "Lohnkonto gesucht?",
+            "jobDescription": "https://yuh.com",
+            "jobImage": "https://www.persoenlich.com/sites/default/files/galleries/f4609f099084990468e07fe1c061957fddbd589e.jpeg",
+            "jobVideo": null
+        },
+        "possibleApplications": {
+            "trial": false,
+            "apprenticeship": false
+        },
+        "contact": {
+            "name": "Fritz Mustermann",
+            "email": "fritz.mustermann@swisscom.com",
+            "phone": "0041771234567"
+        }
+    },
+    {
+        "jobId": "202201301130-43954734",
+        "keyWords": [
+            "#informatik",
+            "#kommunikation",
+            "#finanzen",
+            "#büro"
+        ],
+        "styling": {
+            "color": "#fff",
+            "backgroundColor": "#00536d"
+        },
+        "company": {
+            "companyLogo": "data:image/png;base64,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",
+            "companyName": "Stadt Thun",
+            "placeDescription": "Ausbildungsort: Thun",
+            "companyDescription": "Dies ist eine möglichst spannende und relativ kurze Beschreibung über das Unternehmen. Ohne Limitierungen der Länge.",
+            "horizon": "Nach der Lehre kannst DU das oder das machen.",
+            "workDescription": "Eine ausführliche Arbeitsbeschreibung"
+        },
+        "jobDetails": {
+            "jobTitle": "Informatiker | Informatikerin",
+            "jobDescription": "Bei der dreijährigen, kaufmännischen Berufslehre mit EFZ erhältst du spannende Einblicke in verschiedene Aspekte dieses Berufsbildes. Um dir eine möglichst breite Ausbildung zu ermöglichen, arbeitest du in dieser Zeit in unterschiedlichen Unternehmensbereichen.",
+            "jobDescription": "Informatikerinnen und Informatiker installieren Hardware und Betriebssysteme, entwickeln Programme, Datenbanken oder Webauftritte und betreuen Netzwerke und Server. Sie sorgen dafür, dass die Anwenderinnen und Anwender reibungslos, schnell und sicher arbeiten können. Dazu erstellen sie Dokumentationen und Schulungsunterlagen.",
+            "jobImage": null,
+            "jobVideo": "https://www.youtube.com/embed/0B6b0aM_vvE"
+        },
+        "possibleApplications": {
+            "trial": true,
+            "apprenticeship": true
+        },
+        "contact": {
+            "name": "Rinaldo Fricker",
+            "position": "Berufsbildungsverantwortlicher bei der Stadt Thun",
+            "email": "mailto:rinaldo.fricker@thun.ch",
+            "phone": "tel:0041771234567"
+        },
+        "accordions": [
+            {
+                "title": "Deine Vorteile",
+                "items": [
+                    "Kostenloses GA während der Ausbildung",
+                    "Attraktive Vergünstigungen"
+                ]
+            },
+            {
+                "title": "Dein Profil",
+                "items": [
+                    "Sek-Abschluss mit guten Noten",
+                    "Gut in Schrift und Sprache (DE)"
+                ]
+            }
+        ]
     }
 ]

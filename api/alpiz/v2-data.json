@@ -15,9 +15,9 @@
             "companyLogo": "https://www.avag.ch/hubfs/AVAG-Icon%2075x75px-2.jpg",
             "companyName": "AVAG Umwelt AG",
             "placeDescription": "Ausbildungsort: Thun",
-            "companyDescription": "Dies ist eine möglichst spannende und relativ kurze Beschreibung über das Unternehmen. Ohne Limitierungen der Länge.",
-            "horizon": "Nach der Lehre kannst DU das oder das machen.",
-            "workDescription": "Eine ausführliche Arbeitsbeschreibung"
+            "companyDescription": "Die AVAG Umwelt AG ist das regional führende Entsorgungs-, Recycling- und Energieunternehmen für rund 130 Gemeinden und ihre Bevölkerung sowie zahlreiche Gewerbe- und Industriekunden. Mit unserem Engagement leisten wir einen wichtigen Beitrag zur Schliessung zahlreicher Materialkreisläufe, der Energiewende in der Region sowie zum schonungsvollen Umgang mit der Umwelt – kurzgesagt: wir machen aus gestern morgen.<br>Das Ziel – durch unser Handeln für Kunden, Partner und Umwelt Mehrwert zu schaffen – ist nur durch die enge Zusammenarbeit vieler Beteiligter möglich. Als regional wichtige Arbeitgeberin beschäftigen wir rund 150 Fachkräfte und Auszubildende",
+            "horizon": "Mit uns kommst Du weiter. Allen Lehrabgänger:innen mit guten bis sehr guten Leistungen während der Lehre bieten wir eine unbefristete Weiterbeschäftigung an - damit Du die nötige praktische Erfahrung sammeln kannst.",
+            "workDescription": "Um Dir einen möglichst breites Spektrum der Vielfalt des Berufes anbieten zu können, setzen wir Dich während der Ausbildung in unterschiedlichen Unternehmensteilen ein. So kannst Du beispielsweise in die Welt der Buchhaltung, der Kommunikation oder auch der Administration eintauchen."
         },
         "jobDetails": {
             "jobTitle": "Kauffrau | Kaufmann",
@@ -40,19 +40,23 @@
                 "title": "Deine Vorteile",
                 "items": [
                     "Kostenloses GA während der Ausbildung",
-                    "Attraktive Vergünstigungen"
+                    "Attraktive Vergünstigungen",
+                    "Berufsschule in der Nähe deines Wohnortes",
+                    "Flexible Arbeitszeiten"
                 ]
             },
             {
                 "title": "Dein Profil",
                 "items": [
-                    "Sek-Abschluss mit guten Noten",
-                    "Gut in Schrift und Sprache (DE)"
+                    "Schulabschluss mit guten Noten",
+                    "Gute Deutschkenntnisse",
+                    "Sicheres Umgehen mit Zahlen",
+                    "Interesse an Arbeiten am Computer"
                 ]
             }
         ]
     },
-        {
+    {
         "jobId": "ADVERT",
         "keyWords": [],
         "styling": {
@@ -65,7 +69,7 @@
             "placeDescription": "Bezahlte Kooperation mit yuh AG"
         },
         "jobDetails": {
-            "jobTitle": "Lohnkonto gesucht?",
+            "jobTitle": "Lohnkonto gesucht?<br><sup>Meistere deine Finanzen mit yuh!</sup>",
             "jobDescription": "https://yuh.com",
             "jobImage": "https://www.persoenlich.com/sites/default/files/galleries/f4609f099084990468e07fe1c061957fddbd589e.jpeg",
             "jobVideo": null
@@ -96,14 +100,13 @@
             "companyLogo": "data:image/png;base64,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",
             "companyName": "Stadt Thun",
             "placeDescription": "Ausbildungsort: Thun",
-            "companyDescription": "Dies ist eine möglichst spannende und relativ kurze Beschreibung über das Unternehmen. Ohne Limitierungen der Länge.",
-            "horizon": "Nach der Lehre kannst DU das oder das machen.",
-            "workDescription": "Eine ausführliche Arbeitsbeschreibung"
+            "companyDescription": "Die Stadt Thun bietet ein vielseitiges und attraktives Lehrstellenangebot mit Ausbildungsplätze im kaufmännischen, sozialen, technischen und handwerklichen Bereich. Während der Ausbildung fördern die engagierten und qualifizierten Berufsbildnerinnen und Berufsbildner nur die fachlichen Qualitäten, sondern auch die kommunikativen und sozialen Fähigkeiten.",
+            "horizon": "Uns ist Deine Zukunft wichtig: Deshalb unterstützen wir dich bei der Planung deiner Zukunft auch nach der Lehre. Dir steht es frei, ob Du bei uns bleibst oder Dich auf die Suche nach neuen Ufenr begibst. Wir stehen Dir zur Seite.",
+            "workDescription": "Informatikerinnen und Informatiker installieren Hardware und Betriebssysteme, entwickeln Programme, Datenbanken oder Webauftritte und betreuen Netzwerke und Server. Sie sorgen dafür, dass die Anwenderinnen und Anwender reibungslos, schnell und sicher arbeiten können. Dazu erstellen sie Dokumentationen und Schulungsunterlagen. Der Umgang mit Kundinnen und Kunden gehört genauso zu ihrem Job wie das Projektmanagement und Kenntnisse in Elektrotechnik. Die Lehre mit Eidgenössischem Fähigkeitszeugnis dauert vier Jahre. <br><br>Wichtig ist die Freude am Umgang mit Computern, Offenheit gegenüber Neuem sowie ein sicheres Auftreten und eine gute Ausdrucksfähigkeit. Ein analytisches Denkvermögen und gute Kenntnisse in Englisch erleichtern den Einstieg in diesen Beruf. Da die Ausbildung im Lehrbetrieb und in der Berufsschule anspruchsvoll ist, wird eine mit guten Ergebnissen abgeschlossene Sekundarschule oder eine vergleichbare Ausbildung vorausgesetzt."
         },
         "jobDetails": {
             "jobTitle": "Informatiker | Informatikerin",
-            "jobDescription": "Bei der dreijährigen, kaufmännischen Berufslehre mit EFZ erhältst du spannende Einblicke in verschiedene Aspekte dieses Berufsbildes. Um dir eine möglichst breite Ausbildung zu ermöglichen, arbeitest du in dieser Zeit in unterschiedlichen Unternehmensbereichen.",
-            "jobDescription": "Informatikerinnen und Informatiker installieren Hardware und Betriebssysteme, entwickeln Programme, Datenbanken oder Webauftritte und betreuen Netzwerke und Server. Sie sorgen dafür, dass die Anwenderinnen und Anwender reibungslos, schnell und sicher arbeiten können. Dazu erstellen sie Dokumentationen und Schulungsunterlagen.",
+            "jobDescription": "Informatikerinnen und Informatiker installieren Hardware und Betriebssysteme, entwickeln Programme, Datenbanken oder Webauftritte und betreuen Netzwerke und Server. Sie sorgen dafür, dass die Anwenderinnen und Anwender reibungslos, schnell und sicher arbeiten können.",
             "jobImage": null,
             "jobVideo": "https://www.youtube.com/embed/0B6b0aM_vvE"
         },
@@ -121,15 +124,17 @@
             {
                 "title": "Deine Vorteile",
                 "items": [
-                    "Kostenloses GA während der Ausbildung",
-                    "Attraktive Vergünstigungen"
+                    "Kostenlose Fahrt im STI-Netz",
+                    "Attraktive Vergünstigungen",
+                    "7 Wochen Ferien"
                 ]
             },
             {
                 "title": "Dein Profil",
                 "items": [
-                    "Sek-Abschluss mit guten Noten",
-                    "Gut in Schrift und Sprache (DE)"
+                    "Schulabschluss mit guten Noten",
+                    "Interesse an Software und Hardware",
+                    "Freude am Kundenkontakt"
                 ]
             }
         ]

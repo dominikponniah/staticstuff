@@ -15,12 +15,12 @@
             "companyLogo": "https://www.avag.ch/hubfs/AVAG-Icon%2075x75px-2.jpg",
             "companyName": "AVAG Umwelt AG",
             "placeDescription": "Ausbildungsort: Thun",
-            "companyDescription": "Die AVAG Umwelt AG ist das regional führende Entsorgungs-, Recycling- und Energieunternehmen für rund 130 Gemeinden und ihre Bevölkerung sowie zahlreiche Gewerbe- und Industriekunden. Mit unserem Engagement leisten wir einen wichtigen Beitrag zur Schliessung zahlreicher Materialkreisläufe, der Energiewende in der Region sowie zum schonungsvollen Umgang mit der Umwelt – kurzgesagt: wir machen aus gestern morgen.<br>Das Ziel – durch unser Handeln für Kunden, Partner und Umwelt Mehrwert zu schaffen – ist nur durch die enge Zusammenarbeit vieler Beteiligter möglich. Als regional wichtige Arbeitgeberin beschäftigen wir rund 150 Fachkräfte und Auszubildende",
-            "horizon": "Mit uns kommst Du weiter. Allen Lehrabgänger:innen mit guten bis sehr guten Leistungen während der Lehre bieten wir eine unbefristete Weiterbeschäftigung an - damit Du die nötige praktische Erfahrung sammeln kannst.",
-            "workDescription": "Um Dir einen möglichst breites Spektrum der Vielfalt des Berufes anbieten zu können, setzen wir Dich während der Ausbildung in unterschiedlichen Unternehmensteilen ein. So kannst Du beispielsweise in die Welt der Buchhaltung, der Kommunikation oder auch der Administration eintauchen."
+            "companyDescription": "Die AVAG Umwelt AG ist das regional führende Entsorgungs-, Recycling- und Energieunternehmen für rund 130 Gemeinden und ihre Bevölkerung sowie zahlreiche Gewerbe- und Industriekunden. Mit unserem Engagement leisten wir einen wichtigen Beitrag zur Schliessung zahlreicher Materialkreisläufe, der Energiewende in der Region sowie zum schonungsvollen Umgang mit der Umwelt – kurzgesagt: wir machen aus gestern morgen.",
+            "horizon": "Nach deiner Ausbildung stehen dir viele verschiedene Weiterbildungsmöglichkeiten offen. Du kannst beispielsweise einen eidg. Fachausweis machen oder eine Höhere Fachschule / Fachhochschule besuchen. Die Ausbildung ist eine sehr solide und gute Grundlage für einen spannenden und abwechslungsreichen Berufsalltag.",
+            "workDescription": "Die kaufmännische Ausbildung mit EFZ findet im Bürokomplex bei der KVA Thun statt. Daneben besuchst du die Berufsschule in der Nähe deines Wohnortes. Weiterführende Informationen zum Berufsbild der Kaufleute EFZ findest du auf der Website des kaufmännischen Verbandes. In den folgenden Bereichen wirst du während deiner Ausbildung tätig sein: Finanzen / Administration, Marketing und Einkauf."
         },
         "jobDetails": {
-            "jobTitle": "Kauffrau | Kaufmann",
+            "jobTitle": "Kaufmann/-frau EFZ",
             "jobDescription": "Bei der dreijährigen, kaufmännischen Berufslehre mit EFZ erhältst du spannende Einblicke in verschiedene Aspekte dieses Berufsbildes. Um dir eine möglichst breite Ausbildung zu ermöglichen, arbeitest du in dieser Zeit in unterschiedlichen Unternehmensbereichen.",
             "jobImage": "https://www.avag.ch/hubfs/06%20Karriere/05%20Ausbildung%20bei%20der%20AVAG/02%20Kaufleute/AVAG-Karriere-Kaufleute-ATWI.jpg",
             "jobVideo": null
@@ -30,28 +30,28 @@
             "apprenticeship": true
         },
         "contact": {
-            "name": "Fritz Mustermann",
-            "position": "Berufsbildungsverantwortlicher bei der AVAG Umwelt AG",
-            "email": "mailto:fritz.mustermann@avag.ch",
+            "name": "Barbara Bandorf",
+            "position": "Personalfachfrau bei der AVAG Umwelt AG",
+            "email": "mailto:thisdemo@email.com",
             "phone": "tel:0041771234567"
         },
         "accordions": [
             {
                 "title": "Deine Vorteile",
                 "items": [
-                    "Kostenloses GA während der Ausbildung",
-                    "Attraktive Vergünstigungen",
-                    "Berufsschule in der Nähe deines Wohnortes",
-                    "Flexible Arbeitszeiten"
+                    "5 Wochen Ferien pro Jahr",
+                    "einmal die Woche fruchtige Vitaminbomben",
+                    "immer mal wieder eine kleine Aufmerksamkeit oder ein Geschenk",
+                    "über das ganze Jahr hinweg verschiedene Anlässe und Veranstaltungen, die das Gemeinschaftsgefühl fördern"
                 ]
             },
             {
                 "title": "Dein Profil",
                 "items": [
-                    "Schulabschluss mit guten Noten",
-                    "Gute Deutschkenntnisse",
-                    "Sicheres Umgehen mit Zahlen",
-                    "Interesse an Arbeiten am Computer"
+                    "mündliche und schriftliche Sprachgewandtheit",
+                    "ein ausgeprägtes Verantwortungsbewusstsein",
+                    "eine gute Auffassungsgabe",
+                    "Freude am Umgang mit anderen Menschen"
                 ]
             }
         ]

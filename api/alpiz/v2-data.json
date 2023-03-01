@@ -8,21 +8,21 @@
             "#büro"
         ],
         "styling": {
-            "color": "#fff",
-            "backgroundColor": "#0050aa"
+            "color": "#c00",
+            "backgroundColor": "#fff"
         },
         "company": {
-            "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Lidl-Logo.svg/2048px-Lidl-Logo.svg.png",
-            "companyName": "Lidl Schweiz",
-            "placeDescription": "Arbeitsort: Spiez",
-            "companyDescription": "Die AVAG Umwelt AG ist das regional führende Entsorgungs-, Recycling- und Energieunternehmen für rund 130 Gemeinden und ihre Bevölkerung sowie zahlreiche Gewerbe- und Industriekunden. Mit unserem Engagement leisten wir einen wichtigen Beitrag zur Schliessung zahlreicher Materialkreisläufe, der Energiewende in der Region sowie zum schonungsvollen Umgang mit der Umwelt – kurzgesagt: wir machen aus gestern morgen.",
+            "companyLogo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAhFBMVEX////NICfZaW3MFR3YX2TNHSTJAADMEhvLDhjLCBTghonOJS7giYzPKjPlnaDSQUfcdnrLAA777e7wxsj++Pn88fLsuLrQMznxy83US1Dij5L55+jtvb/qsbPYY2jnoqX12NrbcXXVVFny0NLjlZnSPUPegIPVUlf23uDrsrXmoKPTR02NzedDAAAEiElEQVR4nO2daVfiQBBFbUISFheC4AIqisq4/P//NygOhpBO6Kqiqs+cdz9Dn9yj7xHaVHtyAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA/4mbbofBw5X19bcyLvKEQfZsLdDKdeI4ZNbX30qnzxJMltYCbZxnLEHXP7c2aOGGKehij+E4S7mG1gotXHMFk1trhWYeekxB13+xdmjkhRvC9S/pjbVEE+yW+TKcWFs0wG8Z59KoY3jGF4w7hvyWcXHHUKBlXNQxvBQRTD+tPbzMBVpmTW9mLeJFomXWFJfWIj66Ei3jIo6hTMusY/hqbeJBpmXW9E6tVeqZ/wrmdRwe0VhjWGqZUR2fBytmU2uXWn5bJh3WvmB2aA1FGsPZ7++ox/D0UMM4Y1huGa5hcad88YcwL9co1zDKGA7LLcI0TK+VL/4QuvnOJfIMewPlqz+AWbH7Q+AZRhjDu8q9DNMwGytffyvz6s0azzA9U77+dlz1XoVnmK+Ur7+VZV69Rp5hdDGstAzfMLYYVluGbRhbDPdahm0YWQwnw7pvRCzDIq4HFPZbhm2YzZUdGjndbxmuoee9RtS1DNcwHylLNPHm23jiGBbvyhYNTPbuZSQMY4rhn9qWYRqmibJFA56WYRpGFMOrht1fhmFxr+zhZdMynmfuclf7nkHheX0pz9HEcJJ+XdXwoVvPQ+2bFkvPqy+2immqLOLlu2XSC6HVFttn/PInoSW5DL5bRszwvB9bDH9a5giG2ZvQkjz+3cvIG0byabhpmaMYJh2hFXls72XkDeOI4Wp7LyNvGEUMS/cyRzAUWpBD+RuTuGEMMZyU77DEDfsLoQUZ3JZHKMQNs0ehBemsdr4xyf8Mhdaj8777jUnaMKm/YVekui8jbWgew0n1kR9pQ/MYflYHtaQNC6HlqKz29mWEDZOu0HJE3vf3ZYQN+x9Cy9Go2/0VNrSN4V7LHMNQaDUaey0javi9T2M7UTmq3/0N3Gv7aNxrM52ovPft/vr2S+t3hJv3Sy0nKh9DH272/Cl+0LjnbRjDaS90woBiaBnDi+Chc4qh4SjXKHzonGJoF0Nvy0gbWs2QBLcM0dBssHnSp8wxEQzNYhjeMkRDq4lKQstQDZXNfqC0DM3QaKKS1DI0Q5sYTkktQzO0ieEr+QAdgqHFp+ET/QCdYEOTGC4Y05LBhhaDzc+ccdBgw0x/onJacGayww31Y0hvGYqhwUQlo2UohvoTlZyWoRiqDzazWoZiqD1RyWsZgqH6RCWvZRoMfc+Xak9UMltmwypkHl95lIvbMhuCzlTQjSG7ZcLRjeGY3TLh6MaQeeQoCdUYMo8cpaE5UfmhH0LdiUqJwwDDUZyolDgMkIDiRKVFyzjNGJq0zDqG9fM1R4B7sDEVtRjatIzTi6FRyzi9US72wcZUtAabO0KHAYajNFFp1TJOa7DZrGWcUgztWkbr09CsZZzSRKXUkaMkNEa5XrKw/xwii0IM35acfwXDxvjRbgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVPgLCEVQBCmpWycAAAAASUVORK5CYII=",
+            "companyName": "Swiss International Airlines (LHG)",
+            "placeDescription": "Dein Hub: LSZH",
+            "companyDescription": "",
             "horizon": "Nach deiner Ausbildung stehen dir viele verschiedene Weiterbildungsmöglichkeiten offen. Du kannst beispielsweise einen eidg. Fachausweis machen oder eine Höhere Fachschule / Fachhochschule besuchen. Die Ausbildung ist eine sehr solide und gute Grundlage für einen spannenden und abwechslungsreichen Berufsalltag.",
             "workDescription": "Die kaufmännische Ausbildung mit EFZ findet im Bürokomplex bei der KVA Thun statt. Daneben besuchst du die Berufsschule in der Nähe deines Wohnortes. Weiterführende Informationen zum Berufsbild der Kaufleute EFZ findest du auf der Website des kaufmännischen Verbandes. In den folgenden Bereichen wirst du während deiner Ausbildung tätig sein: Finanzen / Administration, Marketing und Einkauf."
         },
         "jobDetails": {
-            "jobTitle": "Verkäufer:in",
-            "jobDescription": "Keine Angst vor Kundenkontakt? Du liebst es, anderen Menschen zu helfen? Dann bist Du bei uns genau richtig! Verdiene Dir mit dem höchsten Mindestlohn in der Branche etwas neben dem Studium dazu und werde Teil des Lidl-Teams! ",
-            "jobImage": "https://karriere.lidl.ch/images/variations/hero_md/7/0/5/3/90133507-3-ger-CH/vertrieb_rl_fl_besprechung3_16x9.jpg",
+            "jobTitle": "Fluggastbegleiter:in",
+            "jobDescription": "Über den Wolken - da ist deine Freiheit grenzenlos! Für unsere Besatzung mit LSZH als Hub suchen wir Dich als Verstärkung! Entscheide selbst, welche Tage und zu welchem Wochenpensum du arbeitest und geniesse alle vorzüge der LHG inklusive der Weiterbildungsmöglichkeiten!",
+            "jobImage": "https://www.air-journal.fr/wp-content/uploads/air-journal-swiss-equipage-pnc-hotesse-steward-640x474.jpg",
             "jobVideo": null
         },
         "possibleApplications": {

@@ -16,11 +16,35 @@
                 "city": "Wattenwil",
                 "mail": null,
                 "phone": null,
+                "web": null,
                 "lat": 46.76599329634373,
                 "lon": 7.505994884710118
             },
             "imageURL": "https://lehrebeo.ch/apps/lsp/assets/img/event.png",
             "mainDescription": "In unserer Region sind über 35 Lehrbetriebe bereit, sich auf einer Lehrlingsplattform zu präsentieren. Sie ermöglichen den Jugendlichen und deren Eltern einen ersten Einblick in ihren Betrieb. Hier darf man sich austauschen, informieren und eventuell bereits den Wochenplatz, die Schnupperlehre oder eine Berufsausbildung besprechen."
+        },
+        {
+            "title": "Fit for Jobs - Achtung, fertig, Lehrstelle!",
+            "dateTime": "20. Oktober 2023 ab 14.00 Uhr",
+            "audience": {
+                "students": true,
+                "parents": true,
+                "teachers": true
+            },
+            "location": 
+            {
+                "title": "IGA Interlaken",
+                "street": "Strandbadstrasse 44",
+                "zipCode": 3800,
+                "city": "Interlaken",
+                "mail": 'mailto:sl-sek@interlaken.ch',
+                "phone": 'tel:0338221333',
+                "web": 'https://www.iga-interlaken.ch/aussteller/fit-for-jobs',
+                "lat": 46.689093176131216,
+                "lon": 7.857335900908453
+            },
+            "imageURL": "https://www.iga-interlaken.ch/pictures/d4/v7q20wugolwm05wbdmpovmqzowokpb/header_start_rundgang_iga-1600.jpg",
+            "mainDescription": "Im Rahmen der Beruflichen Orientierung der Sekundarstufe I Interlaken, sollen die Schülerinnen und Schüler einen Einblick in die Berufswelt erhalten.<br>Der direkte Kontakt mit der Berufswelt ist für Schüler/innen ein wichtiger Schritt in der Berufsfindung. Es besteht aber auch von Seiten der Unternehmen ein grosses Interesse, ihre Branche und Berufsfelder vorzustellen."
         }
     ]
 }

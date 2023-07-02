@@ -2,7 +2,7 @@
     "events":[
         {
             "title": "5. Lehrstellenplattform oberes Gürbetal / Stockental",
-            "dateTime": "Mi 27 Mär 2024, 17.30 Uhr",
+            "dateTime": "27. März 2024 ab 17.30 Uhr",
             "audience": {
                 "students": true,
                 "parents": true,
@@ -19,7 +19,7 @@
                 "lat": null,
                 "lon": null
             },
-            "headlineDescription": null,
+            "imageURL": "https://lehrebeo.ch/apps/lsp/assets/img/event.png",
             "mainDescription": null
         }
     ]

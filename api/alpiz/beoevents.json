@@ -37,9 +37,9 @@
                 "street": "Strandbadstrasse 44",
                 "zipCode": 3800,
                 "city": "Interlaken",
-                "mail": 'mailto:sl-sek@interlaken.ch',
-                "phone": 'tel:0338221333',
-                "web": 'https://www.iga-interlaken.ch/aussteller/fit-for-jobs',
+                "mail": "mailto:sl-sek@interlaken.ch",
+                "phone": "tel:0338221333",
+                "web": "https://www.iga-interlaken.ch/aussteller/fit-for-jobs",
                 "lat": 46.689093176131216,
                 "lon": 7.857335900908453
             },

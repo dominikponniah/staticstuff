@@ -1,0 +1,26 @@
+{
+    "events":[
+        {
+            "title": "5. Lehrstellenplattform oberes Gürbetal / Stockental",
+            "dateTime": "Mi 27 Mär 2024, 17.30 Uhr",
+            "audience": {
+                "students": true,
+                "parents": true,
+                "teachers": true
+            },
+            "location": 
+            {
+                "title": "Oberstufenzentrum Wattenwil",
+                "street": "Hagenstrasse 7",
+                "zipCode": 3665,
+                "city": "Wattenwil",
+                "mail": null,
+                "phone": null,
+                "lat": null,
+                "lon": null
+            },
+            "headlineDescription": null,
+            "mainDescription": null
+        }
+    ]
+}
